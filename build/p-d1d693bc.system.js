@@ -1,0 +1,1 @@
+System.register(["./p-6c3765a4.system.js"],(function(){"use strict";var t,e;return{setters:[function(s){t=s.p;e=s.b}],execute:function(){t().then(t=>e([["p-248b338e.system",[[1,"app-root"]]]],t))}}}));
